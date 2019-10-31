@@ -21,7 +21,7 @@ The driver is one such entry. We overwrite the driver's blink with the driver's 
 
 ### How to use this
 Build the source (make sure you have the driver kit installed). Load the driver with your preferred method and open up Process Explorer.  
-In Process Explorer select the System process (PID 4). Then View > Show Lower Pane. Then View > Lower Pane View. Look for `hidenseek.sys`, can't find it? Good ;)
+In Process Explorer select the System process (PID 4). Then `View > Show Lower Pane`. Then `View > Lower Pane View`. Look for `hidenseek.sys`, can't find it? Good ;)
 
 ## Detection
 TBD
